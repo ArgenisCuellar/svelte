@@ -5,4 +5,5 @@
 
 <div class="text-column">
     <h1>This is a hello world from Svelte!</h1>
+    <h1>This is a new hello world from Svelte!</h1>
 </div>
