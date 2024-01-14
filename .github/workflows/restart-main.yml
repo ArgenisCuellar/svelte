@@ -17,6 +17,6 @@ jobs:
           command_timeout: 10m
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USERNAME }}
-          password: ${{ secrets.PASSWORD }}
+          key: ${{ secrets.KEY }}
           port: ${{ secrets.PORT }}
           script: sh restart-svelte.sh
